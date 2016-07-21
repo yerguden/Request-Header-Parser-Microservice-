@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "coffee server.coffee",
+    "test": "echo \"no tests here !!!!\" "
   },
   "author": "",
   "license": "ISC",
